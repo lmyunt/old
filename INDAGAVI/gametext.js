@@ -10,6 +10,7 @@ button.addEventListener("click", () => {
   if (audio.paused) {
     audio.volume = 0.2;
     audio.play();
+    audio.loop = true;
     icon.classList.remove('fa-volume-up');
     icon.classList.add('fa-volume-mute');
     
