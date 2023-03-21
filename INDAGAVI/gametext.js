@@ -75,13 +75,13 @@ const textNodes = [
     text: 'WELCOME!' +
 
     '\n\nINDAgavi is an interstellar communications company that dreams of connecting the world. Our world-class technology brings isolated planets into the 26th century!' + 
-    'Over 5,000 planets have made the switch, increasing trade, job opportunities, and most importantly connecting people together. And that is where you come in!' + 
-    'The first step to implementing our communication system is getting as much data as possible on our potential consumers!' + 
-    'To do so we send scouts to make initial connections and gather information about the planets they journey to. \n\nTo help you succeed we’ve given' +
-    'you multiple tools! The Gavisuit you will be provided will not only provide you with oxygen, but it can monitor your health as well!' + 
-    'The INDAgo you’re provided is a small tablet that keeps you connected while you are away from your ship to our AI system we’ve affectionately named INDA.' + 
-    'INDA can do almost anything you can imagine and more,  and we consider her to be the heart of our operation. We know you will love INDA as much as we do!' + 
-    'You received a complete overview of your mission prior to starting your journey, the original debrief as well as any updates will be included below!\n' +
+    ' Over 5,000 planets have made the switch, increasing trade, job opportunities, and most importantly connecting people together. And that is where you come in!' + 
+    ' The first step to implementing our communication system is getting as much data as possible on our potential consumers!' + 
+    ' To do so we send scouts to make initial connections and gather information about the planets they journey to. \n\nTo help you succeed we’ve given' +
+    ' you multiple tools! The Gavisuit you will be provided will not only provide you with oxygen, but it can monitor your health as well!' + 
+    ' The INDAgo you’re provided is a small tablet that keeps you connected while you are away from your ship to our AI system we’ve affectionately named INDA.' + 
+    ' INDA can do almost anything you can imagine and more,  and we consider her to be the heart of our operation. We know you will love INDA as much as we do!' + 
+    ' You received a complete overview of your mission prior to starting your journey, the original debrief as well as any updates will be included below!\n' +
     
     '\nSCOUT MISSION GUIDE Sector 1066 Planet AE298B:\n' +'\nGOALS -\n' +
     
