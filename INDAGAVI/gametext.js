@@ -1,3 +1,5 @@
+
+
 const textElement = document.getElementById('text')
 const optionButtonsElement = document.getElementById('option-buttons')
 const audio1 = new Audio("https://www.fesliyanstudios.com/play-mp3/2");
@@ -72,22 +74,7 @@ const textNodes = [
   {
 
     id: 1,
-    text: 'WELCOME!' +
-
-    '\n\nINDAgavi is an interstellar communications company that dreams of connecting the world. Our world-class technology brings isolated planets into the 26th century\! Over 5,000 planets have made the switch, increasing trade, job opportunities, and most importantly connecting people together. And that is where you come in! The first step to implementing our communication system is getting as much data as possible on our potential consumers\! To do so we send scouts to make initial connections and gather information about the planets they journey to. \n\nTo help you succeed we’ve given you multiple tools! The Gavisuit you will be provided will not only provide you with oxygen, but it can monitor your health as well\! The INDAgo you’re provided is a small tablet that keeps you connected while you are away from your ship to our AI system we’ve affectionately named INDA. INDA can do almost anything you can imagine and more,  and we consider her to be the heart of our operation. We know you will love INDA as much as we do\! You received a complete overview of your mission prior to starting your journey, the original debrief as well as any updates will be included below!\n' 
-    
-    '\nSCOUT MISSION GUIDE Sector 1066 Planet AE298B:\n' +'\nGOALS -\n' +
-    
-    
-    '\nUtilize INDA to gather data and interact with local sentient beings, fauna, and flora.\n' +
-    
-    
-    '\nMISSION NOTES:\n' +
-    
-    '\nThe atmosphere has been confirmed as optimal for human life.' +
-    ' Previous contact shows that locals are friendly and willing to connect.\n' +
-    
-    '\nWhat would you like to inquire about?\n',
+    text: 'WELCOME!\n\nINDAgavi is an interstellar communications company that dreams of connecting the world. Our world-class technology brings isolated planets into the 26th century. Over 5,000 planets have made the switch, increasing trade, job opportunities, and most importantly connecting people together. And that is where you come in. The first step to implementing our communication system is getting as much data as possible on our potential consumers! To do so we send scouts to make initial connections and gather information about the planets they journey to. \n\nTo help you succeed we’ve given you multiple tools. The Gavisuit you will be provided will not only provide you with oxygen, but it can monitor your health as well. The INDAgo you’re provided is a small tablet that keeps you connected while you are away from your ship to our AI system we’ve affectionately named INDA. INDA can do almost anything you can imagine and more,  and we consider her to be the heart of our operation. We know you will love INDA as much as we do. You received a complete overview of your mission prior to starting your journey, the original debrief as well as any updates will be included below!\n \nSCOUT MISSION GUIDE Sector 1066 Planet AE298B:\n' +'\nGOALS -\n\nUtilize INDA to gather data and interact with local sentient beings, fauna, and flora.\n \nMISSION NOTES:\n \nThe atmosphere has been confirmed as optimal for human life. Previous contact shows that locals are friendly and willing to connect.\n\nWhat would you like to inquire about?\n',
     options: [
       {
         text: 'SHIP STATUS',
@@ -105,7 +92,7 @@ const textNodes = [
     'knocking us off course.' 
     +'This unfortunately resulted in an emergency landing on a planet that cannot be located in the INDAGAVI PLANETARY GUIDE. Diagnostic tests indicate' + 
     'that the vessel is currently inoperable due to major damage incurred during landing,' + 
-    'and a distress signal has been sent out on all available channels. INDIGAVI protocol 103B has been initiated. A scan of the surrounding planet has' + 
+    'and a distress signal has been sent out on all available channels. \n\nINDIGAVI protocol 103B has been initiated. A scan of the surrounding planet has ' + 
     'been completed.\n\n!!MISSION UPDATED!!\n \nSYSTEM CRASH PROTOCOL ENGAGED\n',
     options: [
       {
@@ -119,7 +106,7 @@ const textNodes = [
   },
   {
     id: 1_1,
-    text: 'INITIAL MISSION PARAMETERS: \nUtilize INDA to gather data and interact with local sentient beings, fauna, and flora.\n\ \nUPDATED MISSION PARAMETERS ISSUED:\n Scans indicate life on current planet, protocol 8649 requires alignment with original mission parameters\n Please Select CONFIRM to confrim that you consent to updated parameters. \n\n!! WARNING !!\n \nDECLINING MISSION PARAMETER UPDATES WILL RESULT IN IMMEDIATE TERMINATION OF EMPLOYEMENT\n',
+    text: 'INITIAL MISSION PARAMETERS: \nUtilize INDA to gather data and interact with local sentient beings, fauna, and flora.\n\ \nUPDATED MISSION PARAMETERS ISSUED:\n Scans indicate life on current planet, protocol 8649 requires alignment with original mission parameters\n \nPlease Select CONFIRM to confrim that you consent to updated parameters. \n\n!! WARNING !!\n \nDECLINING MISSION PARAMETER UPDATES WILL RESULT IN IMMEDIATE TERMINATION OF EMPLOYEMENT\n',
     options: [
       {
         text: 'CONFIRM',
