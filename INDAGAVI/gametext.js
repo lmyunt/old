@@ -370,7 +370,7 @@ const textNodes = [
     {
     
       id: 3_1,
-      text: 'As much as you wish you could touch the creature directly, you see a large stick that would let you satisfy your curiousity while maintaining some distance. You pick up the stick and slowl approach, the creature doesn\'t react to you but as soon as the stick touches it the end of the stick begins to bubble and melt. You pull the stick back and carefully walk around the fungi, and hurry down the path thankful for the stick that protected you but a bit nervous about the poison on the other end.',
+      text: 'As much as you wish you could touch the creature directly, you see a large stick that would let you satisfy your curiousity while maintaining some distance. You pick up the stick and slowly approach, the creature doesn\'t react to you but as soon as the stick touches it the end of the stick begins to bubble and melt. You pull the stick back and carefully walk around the fungi, and hurry down the path thankful for the stick that protected you but a bit nervous about the poison on the other end.',
       options: [
         {
             text: 'Discard stick',
@@ -385,7 +385,7 @@ const textNodes = [
     },
     {
       id: 3_1_0,
-      text: 'You drop the stick without a second thought and keep walking. /nThe forest is getting darker as you go down the path and you get the feeling that someone or something is watching you. /n You nervously glance around, not realzing until you\'re already on the ground that there was an obstacle right infront of you. When you look to see what caused you to fall you come face to face with a mouth bigger than your head coming at you. In a second you\'re swallowed and face your demise to a giant serpent. \n\nTHE END\n',      
+      text: 'You drop the stick without a second thought and keep walking. The forest is getting darker as you go down the path and you get the feeling that someone or something is watching you. You nervously glance around, not realzing until you\'re already on the ground that there was an obstacle right infront of you. When you look to see what caused you to fall you come face to face with a mouth bigger than your head coming at you. In a second you\'re swallowed and face your demise to a giant serpent. \n\nTHE END\n',      
       options: [
         {
           text: 'Restart',
