@@ -439,7 +439,7 @@ const textNodes = [
       },
       {
       id: 4_1,
-      text: 'This is exactly what you\'re here for, and maybe if you do a good enough job you\'ll get a raise or something! You think as you head towards the waiving person, noting that it appears that they have created a small campsite with a makeshift shelter. You\'re greeted with a smile from a white-bearded face as you approach, and if they didn\'t have dark blue skin someone could easily mistake this person as an old human man. You stop close by the entrance to the camp, and it\'s then when they say something in a language you don\'t understand. \n\nINDA:"A language match has been found, enabling translation function." \nSuddenly the unfamiliar words being spoken transform into English as you catch the end of a sentence. \n\nUnknown Alein: " and -it\'s been so long since I\'ve seen someone else...can you understand me?"\n You nod your head yes, they look relieved. \n\n Unknown Alien: "My joy is undescribable! You can call me Vos. It has been years since I last spoke to another. Please sit please sit!" \n\nThe alien is speaking a mile a minute, as they gesture for you to sit. You take a step forward but your movement is interrupted by a warning noise in your ear from INDA.',
+      text: 'Your mission may be to gather information, but you\'ve learned your lesson from interacting with the other creatures in the forest to play it safe. You nod your head at the alien as you're forced to pass the campsite. Less than 30 seconds down the road you hear a loud rumbling, looking back you see a huge cloud of black smoke begin to cover the trees. Panic fills you as it swiftly moves in your direction',
       options: [
         {
           text: 'Continue running down the path',
